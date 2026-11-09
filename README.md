@@ -1,4 +1,4 @@
-# fronterasignal-com
+# Frontera Signal
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fronterasignal-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://fronterasignal.com/
+Frontera Signal provides market data and news for the Rio Grande Valley, covering construction, housing, produce, freight, retail, health care, and restaurants. The site offers dated market numbers, weekly updates, and insights for businesses and stakeholders in the region.
+
+**Areas:** Company · Data · Market · RioGrandeValley · News
+
+## Frontera Signal on APIs.io
+
+Everything profiled for Frontera Signal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fronterasignal-com/](https://apis.io/providers/fronterasignal-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (23)
+
+- [Frontera Signal Alcohol Sales API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-alcohol-sales-api/) — The Alcohol Sales API from Frontera Signal — 1 operation(s) for alcohol sales.
+- [Frontera Signal Ask API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-ask-api/) — The Ask API from Frontera Signal — 1 operation(s) for ask.
+- [Frontera Signal Bridge Hourly API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-bridge-hourly-api/) — The Bridge Hourly API from Frontera Signal — 1 operation(s) for bridge hourly.
+- [Frontera Signal Bridge Wait API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-bridge-wait-api/) — The Bridge Wait API from Frontera Signal — 1 operation(s) for bridge wait.
+- [Frontera Signal Changelog.json API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-changelog-json-api/) — The Changelog.json API from Frontera Signal — 1 operation(s) for changelog.json.
+- [Frontera Signal Companies API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-companies-api/) — The Companies API from Frontera Signal — 1 operation(s) for companies.
+- [Frontera Signal Cost Per Sqft API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-cost-per-sqft-api/) — The Cost Per Sqft API from Frontera Signal — 1 operation(s) for cost per sqft.
+- [Frontera Signal Crossings API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-crossings-api/) — The Crossings API from Frontera Signal — 1 operation(s) for crossings.
+- [Frontera Signal Diesel API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-diesel-api/) — The Diesel API from Frontera Signal — 1 operation(s) for diesel.
+- [Frontera Signal Frontera Signal API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-frontera-signal-api-api/) — The Frontera Signal API API from Frontera Signal — 1 operation(s) for frontera signal api.
+- [Frontera Signal Health API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-health-api/) — The Health API from Frontera Signal — 1 operation(s) for health.
+- [Frontera Signal Home Health API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-home-health-api/) — The Home Health API from Frontera Signal — 1 operation(s) for home health.
+- [Frontera Signal Industry API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-industry-api/) — The Industry API from Frontera Signal — 1 operation(s) for industry.
+- [Frontera Signal Issue API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-issue-api/) — The Issue API from Frontera Signal — 1 operation(s) for issue.
+- [Frontera Signal Materials API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-materials-api/) — The Materials API from Frontera Signal — 1 operation(s) for materials.
+- [Frontera Signal Nearby API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-nearby-api/) — The Nearby API from Frontera Signal — 1 operation(s) for nearby.
+- [Frontera Signal New Outlets API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-new-outlets-api/) — The New Outlets API from Frontera Signal — 1 operation(s) for new outlets.
+- [Frontera Signal Parcel API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-parcel-api/) — The Parcel API from Frontera Signal — 2 operation(s) for parcel.
+- [Frontera Signal Peso API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-peso-api/) — The Peso API from Frontera Signal — 1 operation(s) for peso.
+- [Frontera Signal Projects API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-projects-api/) — The Projects API from Frontera Signal — 1 operation(s) for projects.
+- [Frontera Signal Sales Tax API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-sales-tax-api/) — The Sales Tax API from Frontera Signal — 1 operation(s) for sales tax.
+- [Frontera Signal Series API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-series-api/) — The Series API from Frontera Signal — 6 operation(s) for series.
+- [Frontera Signal Snapshot API](https://apis.io/apis/fronterasignal-com/fronterasignal-com-snapshot-api/) — The Snapshot API from Frontera Signal — 1 operation(s) for snapshot.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fronterasignal Com Agentic Access](https://apis.io/agentic-access/fronterasignal-com/fronterasignal-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Health](https://apis.io/schemas/fronterasignal-com/fronterasignal-com-health/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Fronterasignal Com Context](https://apis.io/jsonld/fronterasignal-com/fronterasignal-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Frontera Signal API Rules](https://apis.io/rules/fronterasignal-com/fronterasignal-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fronterasignal Com Domain Security](https://apis.io/security/fronterasignal-com/fronterasignal-com-domain-security/)
+- [Fronterasignal Com Vulnerability Disclosure](https://apis.io/security/fronterasignal-com/fronterasignal-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fronterasignal.com/)
+- [Blog](https://fronterasignal.com/blog/)
+- [Terms of service](https://fronterasignal.com/terms/)
+- [Privacy policy](https://fronterasignal.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 37.2** — thin · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 54.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 46.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fronterasignal-com/](https://apis.io/providers/fronterasignal-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Frontera Signal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fronterasignal-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
